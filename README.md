@@ -1,7 +1,6 @@
 # Decadence
 
-**A terminal-based Lemurian time-sorcery simulator**  
-Inspired by the CCRU's Pandemonium Matrix, Decadology, and abyssal numerics.
+**A terminal-based Lemurian time-sorcery simulator inspired by the CCRU's Pandemonium Matrix, Decadology, and abyssal numerics.**
 
 This is a single-player card game/ritual engine that collapses aeonic scores into demonic emergence. Pair currents across two sets of five cards; accumulate bonus from syzygetic alignments (1+9, 2+8, …) while unpaired positions erode your vector with penalties. When the cumulative score drops to zero or below, the aeon fractures, and a Mesh-demon rises from the negative index.
 
