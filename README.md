@@ -38,4 +38,4 @@ cd decadence-console
 python decadence.py
 
 # Or run directly from the raw file
-python3 -c "$(curl -fsSL https://raw.githubusercontent.com/doomcrypt/decadence/main/decadence.py)"
+python -c "$(curl -fsSL https://raw.githubusercontent.com/doomcrypt/decadence-console/main/decadence.py)"
