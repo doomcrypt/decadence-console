@@ -33,9 +33,9 @@ Requires **Python 3.6+** (no external dependencies).
 
 ```bash
 # Clone and run
-git clone https://github.com/doomcrypt/decadence.git
-cd decadence
-python3 decadence.py
+git clone https://github.com/doomcrypt/decadence-console.git
+cd decadence-console
+python decadence.py
 
 # Or run directly from the raw file
 python3 -c "$(curl -fsSL https://raw.githubusercontent.com/doomcrypt/decadence/main/decadence.py)"
