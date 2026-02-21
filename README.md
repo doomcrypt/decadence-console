@@ -35,7 +35,7 @@ Requires **Python 3.6+** (no external dependencies).
 # Clone and run
 git clone https://github.com/doomcrypt/decadence-console.git
 cd decadence-console
-python decadence.py
+python decadence_console.py
 
 # Or run directly from the raw file
-python -c "$(curl -fsSL https://raw.githubusercontent.com/doomcrypt/decadence-console/main/decadence.py)"
+python -c "$(curl -fsSL https://raw.githubusercontent.com/doomcrypt/decadence-console/main/decadence_console.py)"
